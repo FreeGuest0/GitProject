@@ -18,5 +18,6 @@ public class testGit {
         System.out.println("在线升级主线3");
         System.out.println("在线升级主线4");
         System.out.println("在线升级主线5");
+        System.out.println("在线升级主线5");
     }
 }
