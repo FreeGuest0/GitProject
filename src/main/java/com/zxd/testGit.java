@@ -11,5 +11,7 @@ public class testGit {
         System.out.println("Hello Git");
         System.out.println("主分支更新1");
         System.out.println("主分支更新2");
+        System.out.println("主分支更新3");
+        System.out.println("主分支更新4");
     }
 }
