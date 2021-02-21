@@ -9,5 +9,7 @@ package com.zxd;
 public class testGit {
     public static void main(String[] args){
         System.out.println("Hello Git");
+        System.out.println("主分支更新1");
+        System.out.println("主分支更新2");
     }
 }
